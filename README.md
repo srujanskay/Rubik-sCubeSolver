@@ -1,2 +1,2 @@
-# Rubik-s-Cube-Solver
-Rubik's Cube solver
+# Rubik'sCubeSolver
+This repository contains a C++ project designed to solve the Rubik's Cube.
